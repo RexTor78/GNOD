@@ -1,6 +1,6 @@
 # GNOD
  Music Project
-First Lab 12/07/09[1]
+[First Lab 12/07/09][1]
 
 
 
