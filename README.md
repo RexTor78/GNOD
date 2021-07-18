@@ -5,7 +5,7 @@
 - The secon prototipe is based on create a data base of playlist in spotify about Film & Series songs and recolect his id, and features to provide to final prototipe.
 [Second prototype][2]
 - The final prototipe is based on, if your choice is not in top100, this search in spotify your song choice to recolect data features about it and can analises and compare to do the best recommend song to our Film_songs about Second prototype.
-[Final prototype with search in spotify and compare with a playtlist Films songs to recommend the best aproach to your song input][3]
+[Final prototype][3] with search in spotify and compare with a playtlist Films songs to recommend the best aproach to your song input.
 
 <img src=https://github.com/RexTor78/GNOD/blob/76a84d5c4c729fd1ccbf2c37dd2c76eefe4f5066/Others/gnod_2nd_prototype.jpg>
 
